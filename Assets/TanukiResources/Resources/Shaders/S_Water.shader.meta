@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1d0cc156d923ac44086936f8fb5e4149
+timeCreated: 1516200116
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _FoamTexture: {fileID: 2800000, guid: 1598267fdb1be1e42ad8787b38ee956c, type: 3}
+  - _Distortion: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

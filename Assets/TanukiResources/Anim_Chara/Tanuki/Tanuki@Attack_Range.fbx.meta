@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 08e321a097050a14796729c526428404
+timeCreated: 1522268835
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: JNT_Head
+    100002: JNT_L_Ear
+    100004: JNT_L_Eye
+    100006: JNT_L_Finger_1_01
+    100008: JNT_L_Finger_1_02
+    100010: JNT_L_Finger_1_03
+    100012: JNT_L_Finger_2_01
+    100014: JNT_L_Finger_2_02
+    100016: JNT_L_Finger_2_03
+    100018: JNT_L_Finger_3_01
+    100020: JNT_L_Finger_3_02
+    100022: JNT_L_Finger_3_03
+    100024: JNT_L_Finger_4_01
+    100026: JNT_L_Finger_4_02
+    100028: JNT_L_Finger_4_03
+    100030: JNT_L_Hand_01
+    100032: JNT_L_Leg_01
+    100034: JNT_L_Leg_02
+    100036: JNT_L_Leg_03
+    100038: JNT_L_Leg_04
+    100040: JNT_L_Res_Arm_01
+    100042: JNT_L_Res_Arm_02
+    100044: JNT_L_Res_Arm_03
+    100046: JNT_L_Res_Arm_04
+    100048: JNT_L_Shoulder_01
+    100050: JNT_Leaf
+    100052: JNT_Leaf_Parent_Hand
+    100054: JNT_Leaf_Parent_Head
+    100056: JNT_Left_Hand_Handle
+    100058: JNT_R_Ear
+    100060: JNT_R_Eye
+    100062: JNT_R_Finger_1_01
+    100064: JNT_R_Finger_1_02
+    100066: JNT_R_Finger_1_03
+    100068: JNT_R_Finger_2_01
+    100070: JNT_R_Finger_2_02
+    100072: JNT_R_Finger_2_03
+    100074: JNT_R_Finger_3_01
+    100076: JNT_R_Finger_3_02
+    100078: JNT_R_Finger_3_03
+    100080: JNT_R_Finger_4_01
+    100082: JNT_R_Finger_4_02
+    100084: JNT_R_Finger_4_03
+    100086: JNT_R_Hand_01
+    100088: JNT_R_Leg_01
+    100090: JNT_R_Leg_02
+    100092: JNT_R_Leg_03
+    100094: JNT_R_Leg_04
+    100096: JNT_R_Res_Arm_01
+    100098: JNT_R_Res_Arm_02
+    100100: JNT_R_Res_Arm_03
+    100102: JNT_R_Res_Arm_04
+    100104: JNT_R_Shoulder_01
+    100106: JNT_Res_Tail_01
+    100108: JNT_Res_Tail_02
+    100110: JNT_Res_Tail_03
+    100112: JNT_Res_Tail_04
+    100114: JNT_Res_Tail_05
+    100116: JNT_Res_Tail_06
+    100118: JNT_Res_Tail_07
+    100120: JNT_Right_Hand_Handle
+    100122: JNT_Root
+    100124: JNT_Sake
+    100126: JNT_Snout
+    100128: JNT_Spine_01
+    100130: JNT_Spine_02
+    100132: JNT_Spine_03
+    100134: JNT_Spine_04
+    100136: JNT_Spine_05
+    100138: //RootNode
+    400000: JNT_Head
+    400002: JNT_L_Ear
+    400004: JNT_L_Eye
+    400006: JNT_L_Finger_1_01
+    400008: JNT_L_Finger_1_02
+    400010: JNT_L_Finger_1_03
+    400012: JNT_L_Finger_2_01
+    400014: JNT_L_Finger_2_02
+    400016: JNT_L_Finger_2_03
+    400018: JNT_L_Finger_3_01
+    400020: JNT_L_Finger_3_02
+    400022: JNT_L_Finger_3_03
+    400024: JNT_L_Finger_4_01
+    400026: JNT_L_Finger_4_02
+    400028: JNT_L_Finger_4_03
+    400030: JNT_L_Hand_01
+    400032: JNT_L_Leg_01
+    400034: JNT_L_Leg_02
+    400036: JNT_L_Leg_03
+    400038: JNT_L_Leg_04
+    400040: JNT_L_Res_Arm_01
+    400042: JNT_L_Res_Arm_02
+    400044: JNT_L_Res_Arm_03
+    400046: JNT_L_Res_Arm_04
+    400048: JNT_L_Shoulder_01
+    400050: JNT_Leaf
+    400052: JNT_Leaf_Parent_Hand
+    400054: JNT_Leaf_Parent_Head
+    400056: JNT_Left_Hand_Handle
+    400058: JNT_R_Ear
+    400060: JNT_R_Eye
+    400062: JNT_R_Finger_1_01
+    400064: JNT_R_Finger_1_02
+    400066: JNT_R_Finger_1_03
+    400068: JNT_R_Finger_2_01
+    400070: JNT_R_Finger_2_02
+    400072: JNT_R_Finger_2_03
+    400074: JNT_R_Finger_3_01
+    400076: JNT_R_Finger_3_02
+    400078: JNT_R_Finger_3_03
+    400080: JNT_R_Finger_4_01
+    400082: JNT_R_Finger_4_02
+    400084: JNT_R_Finger_4_03
+    400086: JNT_R_Hand_01
+    400088: JNT_R_Leg_01
+    400090: JNT_R_Leg_02
+    400092: JNT_R_Leg_03
+    400094: JNT_R_Leg_04
+    400096: JNT_R_Res_Arm_01
+    400098: JNT_R_Res_Arm_02
+    400100: JNT_R_Res_Arm_03
+    400102: JNT_R_Res_Arm_04
+    400104: JNT_R_Shoulder_01
+    400106: JNT_Res_Tail_01
+    400108: JNT_Res_Tail_02
+    400110: JNT_Res_Tail_03
+    400112: JNT_Res_Tail_04
+    400114: JNT_Res_Tail_05
+    400116: JNT_Res_Tail_06
+    400118: JNT_Res_Tail_07
+    400120: JNT_Right_Hand_Handle
+    400122: JNT_Root
+    400124: JNT_Sake
+    400126: JNT_Snout
+    400128: JNT_Spine_01
+    400130: JNT_Spine_02
+    400132: JNT_Spine_03
+    400134: JNT_Spine_04
+    400136: JNT_Spine_05
+    400138: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
